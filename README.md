@@ -1,5 +1,5 @@
-# Online Users in ASP.NET Core
+# Online Users Counter in ASP.NET Core
 
-Show online users count with two ways (Cookie - SingalR)
+Display online users count in ASP.NET Core in two ways (Cookie - SingalR)
 
 ![screenshot](screenshot.jpg "Logo Title Text 1")
